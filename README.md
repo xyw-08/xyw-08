@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- WORKING IN PROGRESS : -->
+<div align="center"> 
+  <h2><code>🚧 Constructing Profile ...</code></h2>
+  This page is currently under construction.
+</div>
 
-<!--
-**xyw-08/xyw-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Plan:
+--
+INTRO :
+- welcoming message
+- something fun :)
+--
+ABOUT ME SECTION :
+- left-aligned
+- image on the right
+--
+OTHER SECTIONS (3 columns) :
+headings (each with 3 images/boxes)
+[3 x 3]
+- art
+- study: cs
+- hmmm... cooking recipes?? not good at it tho
+--
+OUTRO :
+- message?
+- Last Update : [date]
 
-Here are some ideas to get you started:
+<div align="right">
+  <sub>
+    ⭑ Thank you for visiting .ᐟ
+    <br>
+    - 🌱 a m y ᶻ 𝗓 𐰁
+    <br>
+    <code>Last Updated: 21-10-2026</code>
+  </sub>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
