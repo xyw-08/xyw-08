@@ -24,16 +24,34 @@ headings (each with 3 images/boxes)
 OUTRO :
 - message?
 - Last Update : [date]
+-->
 
+<!-- INTRO : -->
+
+
+<!-- ABOUT ME : -->
+## 👾 A b o u t  M e :
+```css
+  #user-profile {
+    username: "xyw-08";
+    name: Xiao Yi | Amy;
+    pronouns: she/her;
+
+    occupation: student;
+    status: "updating profile..";
+  }
+```
+
+<!-- OTHERS : -->
+## 🪼 O t h e r s : 
+
+<!-- OUTRO : -->
 <div align="right">
   <sub>
     ⭑ Thank you for visiting .ᐟ
     <br>
     - 🌱 a m y ᶻ 𝗓 𐰁
     <br>
-    <code>Last Updated: 21-10-2026</code>
+    <code>Last Updated: 28-10-2026</code>
   </sub>
 </div>
-
-
--->
