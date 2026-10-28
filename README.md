@@ -1,7 +1,8 @@
 <!-- WORKING IN PROGRESS : -->
 <div align="center"> 
   <h2><code>🚧 Constructing Profile ...</code></h2>
-  This page is currently under construction.
+  This page is currently under construction. <br>
+  <img src="images/magikarp.png" alt="pixel magikarp image" height="200" width="200"/>
 </div>
 
 <!-- Plan:
