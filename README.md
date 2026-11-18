@@ -28,7 +28,9 @@ OUTRO :
 -->
 
 <!-- INTRO : -->
-
+<div align="center"> 
+  <h1>🌻 W E L C O M E :) </h1>
+</div>
 
 <!-- ABOUT ME : -->
 ## 👾 A b o u t - M e :
@@ -47,7 +49,13 @@ OUTRO :
 <!-- OTHERS : -->
 ## 🪼 O t h e r s : 
 ### Projects
-### Learning
+
+> E M P T Y (for now..)
+
+### Study & Growth
+- Reviewing HTML on [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
+- Studying Languages - especially Chinese
+- Journalling To Beat Procrastination !
 
 <!-- OUTRO : -->
 <div align="right">
