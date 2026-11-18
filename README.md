@@ -31,7 +31,7 @@ OUTRO :
 
 
 <!-- ABOUT ME : -->
-## 👾 A b o u t  M e :
+## 👾 A b o u t - M e :
 ```css
   #user-profile {
     username: "xyw-08";
@@ -39,12 +39,15 @@ OUTRO :
     pronouns: she/her;
 
     occupation: student;
-    status: "updating profile..";
+    status: "updating README profile..";
+    procrastination-level: 99;
   }
 ```
 
 <!-- OTHERS : -->
 ## 🪼 O t h e r s : 
+### Projects
+### Learning
 
 <!-- OUTRO : -->
 <div align="right">
@@ -53,6 +56,6 @@ OUTRO :
     <br>
     - 🌱 a m y ᶻ 𝗓 𐰁
     <br>
-    <code>Last Updated: 28-10-2026</code>
+    <code>Last Updated: 18-11-2026</code>
   </sub>
 </div>
